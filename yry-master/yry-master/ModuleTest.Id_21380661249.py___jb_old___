@@ -1,0 +1,10 @@
+downInternal
+2018-07-25 16:35:25, Info                  DISM   API: PID=12300 TID=6780 GetReferenceCount hr: 0x0 - CSessionTable::RemoveSession
+2018-07-25 16:35:25, Info                  DISM   API: PID=12300 TID=6780 Refcount for DismSession= 1s 0 - CSessionTable::RemoveSession
+2018-07-25 16:35:25, Info                  DISM   API: PID=12300 TID=6780 Successfully enqueued command object - CCommandThread::EnqueueCommandObject
+2018-07-25 16:35:25, Info                  DISM   API: PID=12300 TID=6072 ExecuteLoop: CommandQueue signaled - CCommandThread::ExecuteLoop
+2018-07-25 16:35:25, Info                  DISM   API: PID=12300 TID=6072 Successfully dequeued command object - CCommandThread::DequeueCommandObject
+2018-07-25 16:35:25, Info                  DISM   API: PID=12300 TID=6072 ExecuteLoop: Cancel signaled - CCommandThread::ExecuteLoop
+2018-07-25 16:35:25, Info                  DISM   API: PID=12300 TID=6072 Leave CCommandThread::ExecuteLoop - CCommandThread::ExecuteLoop
+2018-07-25 16:35:25, Info                  DISM   PID=12300 TID=6072 Temporarily setting the scratch directory. This may be overridden by user later. - CDISMManager::FinalConstruct
+2018-07-25 16:35:25, Info                  DISM   PID=12300 TID=6072 Scratch directory set to 'C:\Window
